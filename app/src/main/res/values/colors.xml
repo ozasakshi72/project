@@ -1,0 +1,16 @@
+<resources>
+    <color name="light_blue">#D9ECFF</color>
+    <color name="light_pink">#FFE4EC</color>
+    <color name="dark_blue">#1A3C8E</color>
+    <color name="text_dark">#2A2A2A</color>
+    <color name="text_gray">#7A7A7A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_bg">#F7F7F7</color>
+    <color name="pink_progress">#FF4F8B</color>
+
+    <color name="screenBlue">#CBE3FF</color>
+    <color name="screenBlueDark">#14366B</color>
+    <color name="screenSoft">#F2F5FF</color>
+    <color name="screenBlueLight">#E9F2FF</color>
+    <color name="neutralGrey">#7C8298</color>
+</resources>
